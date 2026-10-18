@@ -2,6 +2,16 @@ name = input("enter your name :")
 
 print("welcome", name)
 
-book = input("enter a book name :")
-print("your book is :", book)
+books = []
+number = int(input("how many books do you want to add ?"))
+
+for i in range(number):
+    book = input("enter a book name :")
+    books.append(book)
+
+for a in books:
+    print("your books are: ", a)
+
+
+
 
