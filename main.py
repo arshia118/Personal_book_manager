@@ -1,3 +1,5 @@
+from books import show_books
+
 name = input("enter your name :")
 
 print("welcome", name)
@@ -9,8 +11,7 @@ for i in range(number):
     book = input("enter a book name :")
     books.append(book)
 
-for a in books:
-    print("your books are: ", a)
+show_books(books)
 
 
 
