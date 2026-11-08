@@ -9,6 +9,13 @@ A simple book manager Build with Python
 - Save books
 - Load save book
 - Admin mod 
+- Asking for priority 
+
+## Priority 
+Asks you to choose a priority for your book 
+- low
+- high
+- medium 
 
 ## Project Structure 
 ```txt
@@ -84,11 +91,9 @@ run the main file
 python main.py
 ```
 ## Screenshot
-![screenshot](images/screeenshot.png)
+![screenshot](images/image.png)
 
 ## Demo
 ![demo](images/Animation.gif)
-# Personal_book_manager
-A simple book manager Build with Python 
 
-![ada](https://img.shields.io/badge/python-3.13-yellow)
+
