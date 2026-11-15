@@ -1,5 +1,5 @@
 # Personal_book_manager
-A simple book manager Build with Python 
+A simple book manager Build with a Python 
 
 ![ada](https://img.shields.io/badge/python-3.13-yellow)
 
