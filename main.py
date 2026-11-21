@@ -39,6 +39,7 @@ for i in range(number):
     books.append(book)
 
 show_books(books)
+print("books adde successfully", book_input)
 save_books(books)
 
 
